@@ -49,7 +49,7 @@ function showAccuracy(){
 
 let timeStart = false;
 let interval;
-let sec = 10;
+let sec = 60;
 let elapsedTime = sec;
 
 function updateTime(){
